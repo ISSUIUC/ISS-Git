@@ -9,3 +9,9 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Mihir Shevade
 - Karan Sharma
 shoutout spaceshot avionics for helping me learn git
+
+- Alp Doğaner
+- Thomas McManamen
+
+shoutout spaceshot avionics for helping me learn git
+
