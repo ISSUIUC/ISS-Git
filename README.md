@@ -6,6 +6,7 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 --- 
 
 ## ISS Git Pros:
+- Maximilian Kulasik
 - Aaron Adaya
 Thank u thomas for teaching us how to use git :P - Aaron
 - William Haratsch
@@ -27,4 +28,3 @@ Thank u thomas for teaching us how to use git :P - Aaron
 
 
 shoutout spaceshot avionics for helping me learn git
-=======
