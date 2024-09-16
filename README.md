@@ -6,6 +6,6 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 --- 
 
 ## ISS Git Pros:
-- Mihir Shevade
+- Aaron Adaya
 
-shoutout spaceshot avionics for helping me learn git
+Thank u thomas for teaching us how to use git :P - Aaron
