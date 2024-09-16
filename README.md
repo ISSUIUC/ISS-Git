@@ -6,6 +6,13 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 --- 
 
 ## ISS Git Pros:
+- William Haratsch
 - Mihir Shevade
 - Chethan Karandikar
+- Theodore Ng
+- Karan Sharma
+- Alp Doğaner
+- Thomas McManamen
+-Griffin Kelley
+
 shoutout spaceshot avionics for helping me learn git
