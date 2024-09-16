@@ -10,6 +10,7 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Alp Doğaner
 - Thomas McManamen
 - Mihir Shevade
+- Dominick Bilich
 - Sourojit Mazumder
 - Sarvesh Patham
 - Chethan Karandikar
@@ -22,3 +23,6 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Niharika Navin 
 - Dylan Gasaway
 
+
+shoutout spaceshot avionics for helping me learn git
+=======
