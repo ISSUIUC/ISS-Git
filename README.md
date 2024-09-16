@@ -7,4 +7,11 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 
 ## ISS Git Pros:
 - William Haratsch
-hello_world.exe
+- Mihir Shevade
+- Theodore Ng
+- Karan Sharma
+- Alp Doğaner
+- Thomas McManamen
+
+shoutout spaceshot avionics for helping me learn git
+
