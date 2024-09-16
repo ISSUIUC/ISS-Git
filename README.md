@@ -10,6 +10,7 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Alp Doğaner
 - Thomas McManamen
 - Mihir Shevade
+- Sarvesh Patham
 - Chethan Karandikar
 - Theodore Ng
 - Karan Sharma
