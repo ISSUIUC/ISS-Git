@@ -11,6 +11,7 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Thomas McManamen
 - Mihir Shevade
 - Dominick Bilich
+- Sourojit Mazumder
 - Sarvesh Patham
 - Chethan Karandikar
 - Theodore Ng
@@ -19,7 +20,9 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Thomas McManamen
 - Rithik Mehta
 -Griffin Kelley
+- Niharika Navin 
 - Dylan Gasaway
 
 
 shoutout spaceshot avionics for helping me learn git
+=======
