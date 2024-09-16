@@ -13,5 +13,6 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Alp Doğaner
 - Thomas McManamen
 -Griffin Kelley
+- Neelesh Mangalam
 
 shoutout spaceshot avionics for helping me learn git
