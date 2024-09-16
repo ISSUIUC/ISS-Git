@@ -13,6 +13,9 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Chethan Karandikar
 - Theodore Ng
 - Karan Sharma
+- Alp Doğaner
+- Thomas McManamen
+- Rithik Mehta
 -Griffin Kelley
 - Dylan Gasaway
 
