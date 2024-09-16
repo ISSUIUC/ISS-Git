@@ -7,5 +7,5 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 
 ## ISS Git Pros:
 - Mihir Shevade
-
+- Karan Sharma
 shoutout spaceshot avionics for helping me learn git
