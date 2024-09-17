@@ -6,6 +6,7 @@ Ryan Patel
 --- 
 
 ## ISS Git Pros:
+- Mih
 -Alexziah Hagler
 - Maximilian Kulasik
 - Aaron Adaya
