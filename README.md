@@ -28,5 +28,6 @@ Thank u thomas for teaching us how to use git :P - Aaron
 - Niharika Navin 
 - Dylan Gasaway
 
-
 shoutout spaceshot avionics for helping me learn git
+
+- Siddharth Vadyalam
