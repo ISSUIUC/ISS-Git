@@ -7,7 +7,7 @@ Ryan Patel
 
 ## ISS Git Pros:
 - Mih
--Alexziah Hagler
+- Alexziah Hagler
 - Maximilian Kulasik
 - Aaron Adaya
 Thank u thomas for teaching us how to use git :P - Aaron
@@ -15,8 +15,9 @@ Thank u thomas for teaching us how to use git :P - Aaron
 - Alp Doğaner
 - Thomas McManamen
 - Mihir Shevade
-- Jackie Li
 shoutout spaceshot avionics for helping me learn git
+- Ben Wang
+- Jackie Li
 - Michael Griegel
 - Caden Hodgson
 - Dominick Bilich
@@ -28,11 +29,9 @@ shoutout spaceshot avionics for helping me learn git
 - Alp Doğaner
 - Thomas McManamen
 - Rithik Mehta
--Griffin Kelley
+- Griffin Kelley
 - Neelesh Mangalam
 - Niharika Navin 
 - Dylan Gasaway
-
-shoutout spaceshot avionics for helping me learn git
 
 - Siddharth Vadyalam
