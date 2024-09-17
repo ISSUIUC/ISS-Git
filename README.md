@@ -7,6 +7,28 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 
 ## ISS Git Pros:
 -Alexziah Hagler
+- Maximilian Kulasik
+- Aaron Adaya
+Thank u thomas for teaching us how to use git :P - Aaron
+- William Haratsch
+- Alp Doğaner
+- Thomas McManamen
 - Mihir Shevade
+- Michael Griegel
+- Caden Hodgson
+- Dominick Bilich
+- Sourojit Mazumder
+- Sarvesh Patham
+- Chethan Karandikar
+- Theodore Ng
+- Karan Sharma
+- Alp Doğaner
+- Thomas McManamen
+- Rithik Mehta
+-Griffin Kelley
+- Niharika Navin 
+- Dylan Gasaway
 
 shoutout spaceshot avionics for helping me learn git
+
+- Siddharth Vadyalam
