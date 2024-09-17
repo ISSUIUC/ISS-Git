@@ -29,6 +29,7 @@ shoutout spaceshot avionics for helping me learn git
 - Thomas McManamen
 - Rithik Mehta
 -Griffin Kelley
+- Neelesh Mangalam
 - Niharika Navin 
 - Dylan Gasaway
 
