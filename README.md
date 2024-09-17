@@ -14,6 +14,8 @@ Thank u thomas for teaching us how to use git :P - Aaron
 - Alp Doğaner
 - Thomas McManamen
 - Mihir Shevade
+- Jackie Li
+shoutout spaceshot avionics for helping me learn git
 - Michael Griegel
 - Caden Hodgson
 - Dominick Bilich
