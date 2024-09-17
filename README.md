@@ -13,6 +13,7 @@ Thank u thomas for teaching us how to use git :P - Aaron
 - Alp Doğaner
 - Thomas McManamen
 - Mihir Shevade
+- Michael Griegel
 - Caden Hodgson
 - Dominick Bilich
 - Sourojit Mazumder
