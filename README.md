@@ -35,3 +35,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Dylan Gasaway
 - Siddharth Vadyalam
 - Muhammad Mannan Arshad (Thanks Surag)
+- Heta Patel
