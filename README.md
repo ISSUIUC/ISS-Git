@@ -31,3 +31,4 @@ Thank u thomas for teaching us how to use git :P - Aaron
 - Niharika Navin 
 - Dylan Gasaway
 - Siddharth Vadyalam
+- Heta Patel
