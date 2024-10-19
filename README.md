@@ -37,3 +37,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Muhammad Mannan Arshad (Thanks Surag)
 - Heta Patel
 - Tony Wang
+- Gary Kanyuh
