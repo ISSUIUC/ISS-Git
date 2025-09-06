@@ -38,3 +38,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Heta Patel
 - Tony Wang
 - Gary Kanyuh
+- Mariano Rodriguez
