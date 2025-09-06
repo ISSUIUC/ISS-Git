@@ -38,3 +38,5 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Heta Patel
 - Tony Wang
 - Gary Kanyuh
+- Eugene Lim
+  Hello guys I totally forgot how to use git
