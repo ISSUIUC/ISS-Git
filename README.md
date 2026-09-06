@@ -40,3 +40,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Gary Kanyuh
 - Mason Miao
 - Liam Grady
+- Nishyanth Kumar
