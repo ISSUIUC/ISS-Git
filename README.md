@@ -42,3 +42,5 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Aarushi Kaushik
 - Liam Grady
 - Nishyanth Kumar
+- Kelly Lin
+- Justin Chung
