@@ -42,5 +42,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Aarushi Kaushik
 - Liam Grady
 - Nishyanth Kumar
-- Darren Xie
--
+-Darren Xie
