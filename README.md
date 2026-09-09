@@ -43,3 +43,4 @@ Follow along with our [Git Tutorial](https://uofi.app.box.com/integrations/googl
 - Liam Grady
 - Nishyanth Kumar
 - Darren Xie
+- Darren D Xie
