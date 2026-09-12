@@ -1,1 +1,1 @@
-i love nvim!!!!!!! fuck emacs!!!!!!!!1
+i love neovim!!!!!! fuck emacs!!!!!
